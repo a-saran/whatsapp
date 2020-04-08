@@ -5,8 +5,8 @@ whatsapp message script
 ```js
 (function() {
   var TimeInternal = 2000; //2 seconds
-  var message = 'Ni savuda 🤪'; // message
-  var messgeCount = 100;
+  var message = 'message you want to send'; // message
+  var messgeCount = 100; //messageCount
 
   var eventFire = (MyElement, ElementType) => { 
     var MyEvent = document.createEvent("MouseEvents"); 
