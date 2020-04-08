@@ -1,6 +1,10 @@
 # whatsapp
 whatsapp message script
 
+ * Open whatsapp web
+ * Open the target person chat
+ * Run the code in console
+
 
 ```js
 (function() {
